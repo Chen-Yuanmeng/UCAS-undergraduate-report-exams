@@ -17,7 +17,6 @@
 ## 下载模板
 
 - GitHub 页面右边点击：Code -> Download Zip
-- Overleaf
 
 ## 所需字体
 
@@ -27,7 +26,7 @@
 
 模板使用 `xelatex` 进行编译。
 
-### 编译步骤
+### 编译方法 (均可)
 
 1. 使用 TexWorks 或 Visual Studio Code 中的 `LaTeX Workshop` 插件，编译时选择 “XeLaTeX” 选项。
 
@@ -77,6 +76,8 @@
 ```
 
 ## 协议：CC0 1.0 通用
+
+注意：本协议不适用于 SIMSUN.TTC, STXINGKA.TTF, STZHONGS.TTF 三个文件。三个字体文字为商用字体的，请在使用前取得合适的授权。
 
 本模板采用 Creative Commons 制定的 CC0 1.0 通用协议。该协议的普通文本如下。
 
